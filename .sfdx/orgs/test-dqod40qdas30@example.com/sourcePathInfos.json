@@ -1,0 +1,363 @@
+[
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app",
+        {
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558495761935,
+            "changeTime": 1558495761935,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558495761935,
+            "changeTime": 1558495761935,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173563,
+            "changeTime": 1558510173563,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558495761936,
+            "changeTime": 1558495761936,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558495826051,
+            "changeTime": 1558495826051,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport",
+        {
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558496584460,
+            "changeTime": 1558496584460,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2104,
+            "modifiedTime": 1558510173233,
+            "changeTime": 1558510173233,
+            "contentHash": "5cef2259530b4ba1f5669352bfe235974784a5b1"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1558510173236,
+            "changeTime": 1558510173236,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1558510173239,
+            "changeTime": 1558510173239,
+            "contentHash": "e39b5168ee6b758cc8ea0f1b9a9790b32d914b99"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1558510173247,
+            "changeTime": 1558510173247,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2931,
+            "modifiedTime": 1558510173443,
+            "changeTime": 1558510173443,
+            "contentHash": "5a8e7706cb5101f13d46ce0a1d4d8bafc1f35126"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\flexipages\\Global_Fruits_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 512,
+            "modifiedTime": 1558510173496,
+            "changeTime": 1558510173496,
+            "contentHash": "46190df3c79cbc546b2398ddbadfc77e20c3d296"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1558510173521,
+            "changeTime": 1558510173521,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\applications\\Global_Fruits_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\applications\\Global_Fruits_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 616,
+            "modifiedTime": 1558510173540,
+            "changeTime": 1558510173540,
+            "contentHash": "2fb85e22f1b34b526eda9e92a4df53557e3caf8b"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1558510173575,
+            "changeTime": 1558510173575,
+            "contentHash": "6ca4ed0b84401835c1a6fcdc8f3408989d858319"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5491,
+            "modifiedTime": 1558510173628,
+            "changeTime": 1558510173628,
+            "contentHash": "1707f763b199eb13bdb4bbf390f991de84904254"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19626,
+            "modifiedTime": 1558510173715,
+            "changeTime": 1558510173715,
+            "contentHash": "2f1f4bdd201587a4367f9fed6873a32c3cdae401"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5153,
+            "modifiedTime": 1558510173744,
+            "changeTime": 1558510173744,
+            "contentHash": "6ca4ed0b84401835c1a6fcdc8f3408989d858319"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173240,
+            "changeTime": 1558510173240,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173228,
+            "changeTime": 1558510173228,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173238,
+            "changeTime": 1558510173238,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173242,
+            "changeTime": 1558510173242,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173442,
+            "changeTime": 1558510173442,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173495,
+            "changeTime": 1558510173495,
+            "contentHash": "7f640e7495a9ec259df6e31ade3ce8d111d52ecb"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173517,
+            "changeTime": 1558510173517,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173539,
+            "changeTime": 1558510173539,
+            "contentHash": "171dbc329d981063f1e19f96c0d73a9309161b9b"
+        }
+    ],
+    [
+        "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\nballa\\Documents\\Mallik\\VSCode\\FruitsImportExport\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558510173743,
+            "changeTime": 1558510173743,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
